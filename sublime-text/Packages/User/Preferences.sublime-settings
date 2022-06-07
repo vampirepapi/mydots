@@ -1,0 +1,11 @@
+{
+	/*"font_size": 16,*/
+	"theme": "ayu-mirage.sublime-theme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
+	"font_face": "Fantasque Sans Mono Regular",
+	"font_size": 20,
+}
