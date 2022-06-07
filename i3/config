@@ -20,7 +20,7 @@
 set $mod Mod4
 
 # Font for window titles. Will also be used by the bar.
-font pango:Sans 10
+font pango:Fantasque Sans Mono Regular 11
 
 #window border
 for_window [class="^.*"] border pixel 0
@@ -31,14 +31,12 @@ for_window [class="^.*"] border pixel 0
 #THEME#
 #######
 
-# class                 border  bground text    indicator child_border
-client.focused          #ff6600 #6272A4 #F8F8F2 #6272A4   #6272A4
-client.focused_inactive #44475A #44475A #F8F8F2 #44475A   #44475A
-client.unfocused        #282A36 #282A36 #BFBFBF #282A36   #282A36
-client.urgent           #44475A #FF5555 #F8F8F2 #FF5555   #FF5555
-client.placeholder      #282A36 #282A36 #F8F8F2 #282A36   #282A36
-
-client.background       #F8F8F2
+# $i3-theme-window
+# class                         border  backgr. text    indicator
+client.focused                  #664477 #664477 #cccccc #e7d8b1
+client.focused_inactive         #e7d8b1 #e7d8b1 #181715 #A074C4
+client.unfocused                #222133 #222133 #AAAAAA #A074C4
+client.urgent                   #CE4045 #CE4045 #e7d8b1 #DCCD69
 
 # start a terminal. We use kitty.
 bindsym $mod+Return exec i3-sensible-terminal
