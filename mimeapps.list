@@ -1,7 +1,7 @@
 [Added Associations]
 application/vnd.ms-publisher=sublime_text.desktop;
 application/x-shellscript=sublime_text.desktop;
-image/jpeg=chromium.desktop;feh.desktop;
+image/jpeg=feh.desktop;chromium.desktop;
 image/png=feh.desktop;chromium.desktop;
 text/html=nvim.desktop;sublime_text.desktop;chromium.desktop;
 inode/directory=kitty-open.desktop;sublime_text.desktop;
