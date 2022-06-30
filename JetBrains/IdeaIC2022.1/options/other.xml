@@ -1,11 +1,42 @@
 <application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2AcXFVuMaEMVDME3RLhPgMUaz6l">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
+    "InstalledPluginsSearchHistory": "spring boot",
+    "MarketplacePluginsSearchHistory": "spring\ns\nspring boot\nso\nspr",
     "NonModalCommitCustomization.IsApplied": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "appcds.runOnSecondStart": "IC-221.5787.30-8ae6c4d254c9b6d17373612334406f2638c6067491e86a745a107009120a6774",
     "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "bundled.plugins.list.saved.version": "IC-221.5787.30",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "Maven",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
+    "defaultJdkConfigured": "true",
+    "defaultpackageserviceconfig.fulltext": "https://package-search.services.jetbrains.com/api/search/idea/fulltext",
+    "defaultpackageserviceconfig.suggest": "https://package-search.services.jetbrains.com/api/search/idea/suggest",
+    "defaultpackageserviceconfig.updated.ts": "1655309755532",
     "eclipse.projects.detected": "",
-    "fileTypeChangedCounter": "1",
+    "file.gist.reindex.count": "8",
+    "fileTypeChangedCounter": "4",
+    "gotit.previous.run": "IC-221.5787.30",
+    "ide.memory.adjusted": "true",
+    "ide.updates.whats.new.shown.for": "221",
+    "installed.kotlin.plugin.version": "221-1.6.21-release-337-IJ5787.30",
+    "jdk.selected.JAVA_MODULE": "11",
+    "project.wizard.group": "Spring Boot/Cloud Dataflow Initializr",
+    "registry.to.advanced.settings.migration.build": "IC-221.5787.30",
+    "spring.assinstant.initializr.last.known.server.url": "https://start.spring.io",
     "tasks.pass.word.conversion.enforced": "true"
   },
   "keyToStringList": {

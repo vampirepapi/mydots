@@ -1,0 +1,34 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="CloseProject">
+      <i c="1" l="1655310037390" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="5" l="1655309931926" />
+    </e>
+    <e n="NewProject">
+      <i c="1" l="1655309853342" />
+    </e>
+    <e n="ShowSettings">
+      <i c="3" l="1655310005390" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="3" l="1655310066907" />
+    </e>
+    <e n="WelcomeScreen.RevealIn">
+      <i c="1" l="1655310045621" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.PluginsTab$3$1">
+      <i c="1" l="1655309966685" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+      <i c="1" l="1655309711964" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1655309847254" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.impl.SegmentedButtonAction">
+      <i c="3" l="1655309681751" />
+    </e>
+  </component>
+</application>

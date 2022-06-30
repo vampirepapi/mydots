@@ -5,7 +5,7 @@
 	[
 		"Vintage",
 	],
-	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
+	"color_scheme": "Packages/ayu/ayu-mirage.sublime-color-scheme",
 	"font_face": "Fantasque Sans Mono Regular",
-	"font_size": 20,
+	"font_size": 21,
 }

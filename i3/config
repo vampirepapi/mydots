@@ -20,7 +20,7 @@
 set $mod Mod4
 
 # Font for window titles. Will also be used by the bar.
-font pango:Sans 11
+font pango:Sans 10
 
 #window border
 for_window [class="^.*"] border pixel 0
@@ -64,7 +64,7 @@ exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 #exec_always --no-startup-id $HOME/.config/polybar/launch.sh --pwidgets
 
 # Display Wallpaper, always.
-exec_always feh --bg-fill /home/vampirepapi/Downloads/nature.avif
+exec_always feh --bg-fill /home/vampirepapi/Downloads/09.jpg
 
 # Provide Gaps to Windows. Increase/Decrease as you like.
 gaps inner 12
