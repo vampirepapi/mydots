@@ -20,7 +20,7 @@
 set $mod Mod4
 
 # Font for window titles. Will also be used by the bar.
-font pango:Sans 10
+font pango:Sans Mono Regular 11
 
 #window border
 for_window [class="^.*"] border pixel 0
